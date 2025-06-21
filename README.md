@@ -10,13 +10,14 @@ To develop a basic speech recognition system that can classify spoken words usin
 
 I used the **Google Speech Commands Dataset** by Google AI.
 
-- **Link to dataset:** [https://www.tensorflow.org/datasets/catalog/speech_commands](https://www.tensorflow.org/datasets/catalog/speech_commands)
+- **Link to dataset:** https://www.kaggle.com/datasets/sylkaladin/speech-commands-v2
 - 35+ spoken words
 - ~2000 samples per word
 - 1-second 16kHz mono WAV files
 - Includes background noise folder
 
 > **Note**: Due to dataset size, I have not uploaded it. Please download it manually from the link above.
+
 > **Note**: Due to dataset size, i have not uploaded the feature extracted file but if you run the code it will generate the extracted feature file (.pkl).
 
 ## Models Used
