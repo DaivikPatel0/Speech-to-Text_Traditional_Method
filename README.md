@@ -1,4 +1,4 @@
-# Speech-to-Text using Traditional ML (HMM + GMM)
+# Speech-to-Text using Traditional ML (HMM and GMM)
 
 This project demonstrates a basic speech recognition system using traditional machine learning techniques — Hidden Markov Models (HMM) and Gaussian Mixture Models (GMM). It classifies spoken words from audio recordings using feature extraction methods like MFCC, delta, and delta² features.
 
